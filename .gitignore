@@ -1,0 +1,16 @@
+# macOS system files
+.DS_Store
+
+# Node.js modules (if you later add npm packages)
+node_modules/
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Backup / temp files
+*~
+
